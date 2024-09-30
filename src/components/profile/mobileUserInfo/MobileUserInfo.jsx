@@ -4,7 +4,7 @@ import useUserContext from "../../../hooks/useUserContext";
 import Btn from "../../button/Btn";
 
 const MobileUserInfo = () => {
-  const { user, loading, logoutUser } = useUserContext();
+  const { user, loading logoutUser } = useUserContext();
 
   return (
     <div className=" ">
