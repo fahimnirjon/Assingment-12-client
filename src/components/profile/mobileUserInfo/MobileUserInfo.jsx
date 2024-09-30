@@ -10,7 +10,7 @@ const MobileUserInfo = () => {
     <div className=" ">
       {/* ====================== modal ====================== */}
 
-      {/* ========== modal ==================== */}
+      {/* ========== modal =============== */}
       <p className="text-xl mt-4 select-none cursor-auto ">Hello !</p>
       <p className="text-xl mt-2 font-semibold select-none cursor-auto ">
         {user?.displayName}
