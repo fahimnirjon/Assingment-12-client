@@ -17,7 +17,7 @@ npm run dev
 
 ### Deployed Firebase
 
-#### Live link: 
+#### Live link: https://horizon-hunt.web.app/
 
 
 <p>It is a platform where users can discover and share their tech products. Tech
