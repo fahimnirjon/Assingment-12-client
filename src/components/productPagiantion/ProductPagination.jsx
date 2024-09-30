@@ -10,7 +10,7 @@ import React from "react";
       variant: active === index ? "filled" : "text",
       color: "gray",
       onClick: () => setActive(index),
-    } any);
+    });
  
   const next = () => {
     if (active === 5) return;
