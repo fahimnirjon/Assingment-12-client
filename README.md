@@ -57,7 +57,7 @@ subscriptions.
 
 ### Let't connect
 
-- [LinkedIn]
+- [LinkedIn](https://www.linkedin.com/in/fahimnirjon04/)
 
 - [Facebook]
-- [Twitter]
+
