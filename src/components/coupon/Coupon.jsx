@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Coupon = ({ coupon, deleteCoupon }) => {
   const { _id, description, code, discountAmount, expiryDate } = coupon;
   function handleDelete(id) {
-    console.log("delete")
+   
   }
   return (
     <div className="p-4 rounded-md bg-blue-gray-100">
