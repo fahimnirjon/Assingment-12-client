@@ -61,7 +61,7 @@ function CouponAdvertisement() {
           className="mySwiper grid grid-cols-1"
         >
           {coupons?.map((item) => {
-            const { _id, description, code, discountAmount, expiryDate } = item;
+            const { description, code, discountAmount, expiryDate } = item;
             return (
               <SwiperSlide key={item._id}>
                 <div className="space-y-2 border-2 p-4 bg-blue-gray-100 rounded-lg shadow-sm">
