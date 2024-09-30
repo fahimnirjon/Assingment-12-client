@@ -1,0 +1,123 @@
+.banner1 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://miro.medium.com/v2/resize:fit:1400/0*vugfwp4dspn7loOD");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 600px;
+}
+.banner2 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://miro.medium.com/v2/resize:fit:1400/1*SmW1gD4A69zIwKo2Kxld3w.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner3 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://media.licdn.com/dms/image/D5612AQGc7bnYmPV_ww/article-cover_image-shrink_720_1280/0/1710306816859?e=2147483647&v=beta&t=_f9ftu3GStpt_jVWNs9OoGHVGln_X4P9Trph2GoBS1E");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner4 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://miro.medium.com/v2/resize:fit:1358/0*s2e3__CzUeiBVtcU");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.banner5 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://kinsta.com/wp-content/uploads/2021/11/what-is-web-hosting-1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.banner6 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1699411115/catalog/1722075735291506688/sgb6zwffhpwwvl5usnvo.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner7 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://101blockchains.com/wp-content/uploads/2021/10/a-comprehensive-guide-on-crypto-wallet.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner8 {
+  background: linear-gradient(
+      180deg,
+      rgba(31, 45, 54, 0.8) 0%,
+      rgba(132, 129, 129, 0) 100%
+    ),
+    url("https://media.licdn.com/dms/image/D4E12AQEM3BDpuwupNw/article-cover_image-shrink_720_1280/0/1712529493299?e=2147483647&v=beta&t=2HkuGaXd_FNvAJm120JYmFxYNhQMbMTexor1BuOjY5E");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
